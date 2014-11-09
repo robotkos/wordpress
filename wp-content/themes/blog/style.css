@@ -324,8 +324,8 @@ a:hover{ color:#2980b9; }
 
 .list_carousel:hover .carousel-controls a{ opacity:1; filter:Alpha(opacity=100); }
 
-.prev {  }
-.next {  }
+.carousel-controls .prev { float:left }
+.carousel-controls .next { float:right }
 
 
 
